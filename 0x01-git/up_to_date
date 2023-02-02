@@ -1,0 +1,4 @@
+git status to know of development made
+git fetch to get info from the origin
+git branch to know which branch we are on
+git pull to update our local repository
